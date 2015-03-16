@@ -1,0 +1,15 @@
+E:\Lee\Visual Studio Projects\BgShell\WindowsInput\bin\Debug\WindowsInput.dll
+E:\Lee\Visual Studio Projects\BgShell\WindowsInput\bin\Debug\WindowsInput.pdb
+E:\Lee\Visual Studio Projects\BgShell\WindowsInput\obj\Debug\ResolveAssemblyReference.cache
+E:\Lee\Visual Studio Projects\BgShell\WindowsInput\obj\Debug\WindowsInput.dll
+E:\Lee\Visual Studio Projects\BgShell\WindowsInput\obj\Debug\WindowsInput.pdb
+E:\lee\Visual Studio Projects\Morser\WindowsInput\bin\Debug\WindowsInput.dll
+E:\lee\Visual Studio Projects\Morser\WindowsInput\bin\Debug\WindowsInput.pdb
+E:\lee\Visual Studio Projects\Morser\WindowsInput\obj\Debug\ResolveAssemblyReference.cache
+E:\lee\Visual Studio Projects\Morser\WindowsInput\obj\Debug\WindowsInput.dll
+E:\lee\Visual Studio Projects\Morser\WindowsInput\obj\Debug\WindowsInput.pdb
+D:\Documents\Mesh\Morser\WindowsInput\bin\Debug\WindowsInput.dll
+D:\Documents\Mesh\Morser\WindowsInput\bin\Debug\WindowsInput.pdb
+D:\Documents\Mesh\Morser\WindowsInput\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents\Mesh\Morser\WindowsInput\obj\Debug\WindowsInput.dll
+D:\Documents\Mesh\Morser\WindowsInput\obj\Debug\WindowsInput.pdb
